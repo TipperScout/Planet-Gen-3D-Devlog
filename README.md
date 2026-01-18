@@ -5,7 +5,6 @@ A devlog for my Scratch game Planet Gen 3D.
 The game first started being worked on on 12/6/25 at a bit after midnight.
 Update log
 ~~~
-~~~
 12/7/25 - 2.0.0 
 Launch
   -- Added the game (Temperature, spin, tilt, grass/water colors, clouds, map mode, terrain editing, save/load, planet name and rings).
