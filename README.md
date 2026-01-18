@@ -128,9 +128,10 @@ https://flat.io/score/69647b6039204453b5167e0c-celestial-dance
 ~~~
 ~~~
 2.5.3 - 1/18/26
--- 
+-- Currently lost due to Scratch description length limitations.
 ~~~
 ~~~
 2.5.4 - 1/18/26
 -- Updated shorelines so they raise terrain less.
+-- Added a high resolution render keybind.
 ~~~
