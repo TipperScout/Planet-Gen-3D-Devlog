@@ -126,3 +126,11 @@ https://flat.io/score/69647b6039204453b5167e0c-celestial-dance
 -- Also made oceanic land lower at plate boundaries when converging with continental crust.
 -- Also increased noise at coastlines
 ~~~
+~~~
+2.5.3 - 1/18/26
+-- 
+~~~
+~~~
+2.5.4 - 1/18/26
+-- Updated shorelines so they raise terrain less.
+~~~
