@@ -1,4 +1,4 @@
-# Planet-Gen-3D-Devlog
+# Planet Gen 3D Devlog
 A devlog for my Scratch game Planet Gen 3D.
 ###### Link Back to Game: https://scratch.mit.edu/projects/1252872479/
 
