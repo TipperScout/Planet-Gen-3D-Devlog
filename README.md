@@ -138,12 +138,12 @@ https://flat.io/score/69647b6039204453b5167e0c-celestial-dance
 ~~~
 ~~~
 2.6.0 - 1/21/26
-  -- Added moister!
-  -- Reworked the biome system to allow for more customizabilty, and allow for moister.
-  -- Temporarily removed prevailing winds due to adding moister. I will add them back soon.
+  -- Added moisture!
+  -- Reworked the biome system to allow for more customizabilty, and allow for moisture.
+  -- Temporarily removed prevailing winds due to adding moisture. I will add them back soon.
 ~~~
 ~~~
 2.6.1 - 1/21/26
   -- Made biomes edit plant saturation/brightness.
-  -- Reworked the moister reading for biomes to allow for dryer biomes.
+  -- Reworked the moisture reading for biomes to allow for dryer biomes.
 ~~~
