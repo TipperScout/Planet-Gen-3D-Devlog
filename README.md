@@ -140,4 +140,5 @@ https://flat.io/score/69647b6039204453b5167e0c-celestial-dance
 2.6.0 - 1/21/26
   -- Added moister!
   -- Reworked the biome system to allow for more customizabilty, and allow for moister.
+  -- Temporarily removed prevailing winds due to adding moister. I will add them back soon.
 ~~~
