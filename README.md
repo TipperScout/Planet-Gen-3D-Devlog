@@ -149,5 +149,5 @@ https://flat.io/score/69647b6039204453b5167e0c-celestial-dance
 ~~~
 ~~~
 2.6.2 - 1/26/26
-  -- Made moisture effected by tilt.
+  -- Made moisture be effected by tilt.
 ~~~
