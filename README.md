@@ -110,14 +110,14 @@ https://flat.io/score/69647b6039204453b5167e0c-celestial-dance
   -- Increased frequency on city noise.
 ~~~
 ~~~
-2.5.0 - 1/16/25
+2.5.0 - 1/16/26
   -- Add plate tectonics! This includes voronoi noise for the plates, and then tectonic activity for mountains and valleys.
   -- Added a maps to see tectonic plates, and interactions. Blue is convergent, green divergent and red is transform. Though, transform boundaries don't do anything currently.
   -- Lowered stone threshold for mountains from 50 to 25.
   -- Renamed "Default" map to "Surface"
 ~~~
 ~~~
-2.5.1 - 1/17/25
+2.5.1 - 1/17/26
   -- Made is so that plates moving in the same direction don't get assigned to transform boundaries, and work better based on the stored angles.
 ~~~
 ~~~
@@ -153,5 +153,5 @@ https://flat.io/score/69647b6039204453b5167e0c-celestial-dance
 ~~~
 ~~~
 2.7.0 - 4/1/26
-  -- Updated the renderer to use ARGB transparency with a newer version of Night Owl 3D Engine. To do this, I had to restructure the whole rendering pipleine to work with the new system.
+  -- Updated the renderer to use ARGB transparency with a newer version of Night Owl 3D Engine. To do this, I had to restructure the whole rendering pipeline to work with the new system.
 ~~~
