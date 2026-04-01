@@ -151,3 +151,7 @@ https://flat.io/score/69647b6039204453b5167e0c-celestial-dance
 2.6.2 - 1/26/26
   -- Made moisture be effected by tilt.
 ~~~
+~~~
+2.7.0 - 4/1/26
+  -- Updated the renderer to use ARGB transparency with a newer version of Night Owl 3D Engine. To do this, I had to restructure the whole rendering pipleine to work with the new system.
+~~~
