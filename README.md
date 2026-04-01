@@ -99,8 +99,7 @@ This also means that equirectangular smoothing was removed.
   -- Added music, credit:
     Composer: TipperScout
     Title: Celestial Dance
-    Link: 
-https://flat.io/score/69647b6039204453b5167e0c-celestial-dance
+    Link: https://flat.io/score/69647b6039204453b5167e0c-celestial-dance
   -- You can now type R for the seed to get a random seed.
 ~~~
 ~~~
@@ -112,13 +111,13 @@ https://flat.io/score/69647b6039204453b5167e0c-celestial-dance
 ~~~
 1/16/26 - 2.5.0
   -- Add plate tectonics! This includes voronoi noise for the plates, and then tectonic activity for mountains and valleys.
-  -- Added a maps to see tectonic plates, and interactions. Blue is convergent, green divergent and red is transform. Though, transform boundaries don't do anything currently.
+  -- Added maps to see tectonic plates, and interactions. Blue is convergent, green divergent and red is transform. Though, transform boundaries don't do anything currently.
   -- Lowered stone threshold for mountains from 50 to 25.
   -- Renamed "Default" map to "Surface"
 ~~~
 ~~~
 1/17/26 - 2.5.1
-  -- Made is so that plates moving in the same direction don't get assigned to transform boundaries, and work better based on the stored angles.
+  -- Made it so that plates moving in the same direction don't get assigned to transform boundaries, and work better based on the stored angles.
 ~~~
 ~~~
 1/17/26 - 2.5.2
