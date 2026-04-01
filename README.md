@@ -110,48 +110,48 @@ https://flat.io/score/69647b6039204453b5167e0c-celestial-dance
   -- Increased frequency on city noise.
 ~~~
 ~~~
-2.5.0 - 1/16/26
+1/16/26 - 2.5.0
   -- Add plate tectonics! This includes voronoi noise for the plates, and then tectonic activity for mountains and valleys.
   -- Added a maps to see tectonic plates, and interactions. Blue is convergent, green divergent and red is transform. Though, transform boundaries don't do anything currently.
   -- Lowered stone threshold for mountains from 50 to 25.
   -- Renamed "Default" map to "Surface"
 ~~~
 ~~~
-2.5.1 - 1/17/26
+1/17/26 - 2.5.1
   -- Made is so that plates moving in the same direction don't get assigned to transform boundaries, and work better based on the stored angles.
 ~~~
 ~~~
-2.5.2 - 1/17/26
+1/17/26 - 2.5.2
   -- Transform faults now effect terrain!
   -- Also made oceanic land lower at plate boundaries when converging with continental crust.
   -- Also increased noise at coastlines
 ~~~
 ~~~
-2.5.3 - 1/18/26
+1/18/26 - 2.5.3
   -- Made continental plates terrain raise at oceanic-continetal convergent zones.
   -- Added plate velocities.
 ~~~
 ~~~
-2.5.4 - 1/18/26
+1/18/26 - 2.5.4
   -- Updated shorelines so they raise terrain less.
   -- Added a high resolution render keybind.
 ~~~
 ~~~
-2.6.0 - 1/21/26
+1/21/26 - 2.6.0
   -- Added moisture!
   -- Reworked the biome system to allow for more customizabilty, and allow for moisture.
   -- Temporarily removed prevailing winds due to adding moisture. I will add them back soon.
 ~~~
 ~~~
-2.6.1 - 1/21/26
+1/21/26 - 2.6.1
   -- Made biomes edit plant saturation/brightness.
   -- Reworked the moisture reading for biomes to allow for dryer biomes.
 ~~~
 ~~~
-2.6.2 - 1/26/26
+1/26/26 - 2.6.2
   -- Made moisture be effected by tilt.
 ~~~
 ~~~
-2.7.0 - 4/1/26
+4/1/26 - 2.7.0
   -- Updated the renderer to use ARGB transparency with a newer version of Night Owl 3D Engine. To do this, I had to restructure the whole rendering pipeline to work with the new system.
 ~~~
