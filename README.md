@@ -143,4 +143,5 @@ Update log
   -- Added a music volume slider to general settings.
  2.7.2
   -- Made temperature be effected by atmosphere thickness.
+  -- Fixed OBJ export texture colors.
 ~~~
