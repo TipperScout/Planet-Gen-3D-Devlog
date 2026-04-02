@@ -5,33 +5,36 @@ A devlog for my Scratch game Planet Gen 3D.
 The game first started being worked on on 12/6/25 at a bit after midnight.
 Update log
 ~~~
-12/7/25
- 2.0.0 Launch
+12/7/25 - 2.0.0 
+Launch
   -- Added the game (Temperature, spin, tilt, grass/water colors, clouds, map mode, terrain editing, save/load, planet name and rings).
- 2.0.1 
+~~~
+~~~
+12/7/25 - 2.0.1 
   -- Patched map UVs not aligning correctly
 ~~~
 ~~~
-12/7/25
- 2.0.2
+12/7/25 - 2.0.2
   -- Made it so clouds don't appear when cloud density is 0.
 ~~~
 ~~~
-12/9/25
- 2.0.3
+12/9/25 - 2.0.3
   -- Patched the smoothing bug at poles, and made the save list hide on start if shown.
- 2.0.4
+~~~
+~~~
+12/9/25 - 2.0.4
   -- Made smoothing smooth in equirectangular space to allow for better sphere unwrapping.
 ~~~
 ~~~
 12/10/25 - 2.0.5
   -- Made clouds smoother by not rounding their smoothing. Also patched the single cloud pixel randomly being in the bottom row above 0. Also also, made the equirectangular smoothing do more.
- 2.0.6
+~~~
+~~~
+12/10/25 - 2.0.6
   -- Added planet OBJ exporting.
 ~~~
 ~~~
-12/11/25
- 2.0.7
+12/11/25 - 2.0.7
   -- Updated the sphere model for better UV unwrapping.
 ~~~
 ~~~
