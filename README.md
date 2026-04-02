@@ -154,3 +154,7 @@ This also means that equirectangular smoothing was removed.
 4/1/26 - 2.7.0
   -- Updated the renderer to use ARGB transparency with a newer version of Night Owl 3D Engine. To do this, I had to restructure the whole rendering pipeline to work with the new system.
 ~~~
+~~~
+4/1/26 - 2.7.1
+  -- Added a music volume slider to general settings.
+~~~
