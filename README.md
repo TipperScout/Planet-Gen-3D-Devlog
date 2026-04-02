@@ -141,4 +141,6 @@ Update log
   -- Updated the renderer to use ARGB transparency with a newer version of Night Owl 3D Engine. To do this, I had to restructure the whole rendering pipeline to work with the new system.
  2.7.1
   -- Added a music volume slider to general settings.
+ 2.7.2
+  -- Made temperature be effected by atmosphere thickness.
 ~~~
