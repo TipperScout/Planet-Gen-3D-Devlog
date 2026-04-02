@@ -114,7 +114,7 @@ Update log
 ~~~
 1/18/26
  2.5.3
-  -- Made continental plates terrain raise at oceanic-continetal convergent zones.
+  -- Made continental plates terrain raise at oceanic-continental convergent zones.
   -- Added plate velocities.
  2.5.4
   -- Updated shorelines so they raise terrain less.
