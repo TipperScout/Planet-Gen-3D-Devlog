@@ -149,4 +149,6 @@ Update log
 4/3/26
  2.7.3
   -- Re-added prevailing  winds that work with moister!
+ 2.7.4
+  -- Reworked biomes to be mostly data driven, though it's only the plant side biomes, and not all ground types, so I'll have to rework the rest of the ground system to be data driven.
 ~~~
