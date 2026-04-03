@@ -145,3 +145,8 @@ Update log
   -- Made temperature be effected by atmosphere thickness.
   -- Fixed OBJ export texture colors.
 ~~~
+~~~
+4/3/26
+ 2.7.3
+  -- Re-added prevailing  winds that work with moister!
+~~~
