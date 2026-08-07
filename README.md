@@ -152,3 +152,8 @@ Update log
  2.7.4
   -- Reworked biomes to be mostly data driven, though it's only the plant side biomes, and not all ground types, so I'll have to rework the rest of the ground system to be data driven.
 ~~~
+~~~
+8/7/26
+ 2.7.4a
+  -- Made rendering not reset the whole screen every frame, and instead clear only existing pixels to improve performance.
+~~~
